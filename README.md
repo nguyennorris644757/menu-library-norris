@@ -18,5 +18,7 @@ Next, install the necessary dependencies.
 - [See on NPM package](https://www.npmjs.com/package/menu-library-norris)
 
 ## Licence
+
 [MIT](./LICENSE)
-# file-upload-nather
+
+# menu-library-norris
