@@ -1,24 +1,25 @@
 {
-  "name": "file-upload-nather",
+  "name": "menu-library-norris",
   "version": "1.0.0",
-  "description": "library for upload files in Node.js",
+  "description": "library for create menu recursive in Node.js",
   "main": "1",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nathetranslations/file-upload-nather.git"
+    "url": "https://github.com/nguyennorris644757/menu-library-norris.git"
   },
   "keywords": [
-    "file-upload"
+    "menu-recursive",
+    "menu"
   ],
-  "author": "nathetranslations",
+  "author": "nguyennorris644757",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nathetranslations/file-upload-nather/issues"
+    "url": "https://github.com/nguyennorris644757/menu-library-norris/issues"
   },
-  "homepage": "https://github.com/nathetranslations/file-upload-nather#readme",
+  "homepage": "https://github.com/nguyennorris644757/menu-library-norris#readme",
   "dependencies": {
     "express": "^4.18.3",
     "lodash": "^4.17.21",
