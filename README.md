@@ -7,7 +7,7 @@ First, make sure you have Node.js installed on your system. Then, initialize a n
 # npm init -y
 
 
-Next, install the necessary dependencies, express and multer.
+Next, install the necessary dependencies.
 
 # npm install lodash
 
