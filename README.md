@@ -15,7 +15,7 @@ Next, install the necessary dependencies, express and multer.
 ## Helpful links
 - [Documentation](https://github.com/nguyennorris644757/menu-library-norris)
 
-- [See on NPM package](https://www.npmjs.com/package/file-upload-nather)
+- [See on NPM package](https://www.npmjs.com/package/menu-library-norris)
 
 ## Licence
 [MIT](./LICENSE)
